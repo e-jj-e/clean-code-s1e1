@@ -18,8 +18,9 @@ body {
 }
 
 @media (max-width:768px) {
-  .colorful-heading { text-align: center;
-}
+  .colorful-heading { 
+    text-align: center;
+  }
 }
 .centered-main-page-element {
     display: block;
