@@ -4,21 +4,21 @@ body {
     color: #333;
     font-family: Lato, sans-serif;
 }
-.aaa {
+.colorful-heading {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
-.aaa img {
+.colorful-heading img {
     width: 100%;
 }
-.aaa .more_inf {
+.colorful-heading .more_inf {
     font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-.aaa { text-align: center;
+  .colorful-heading { text-align: center;
 }
 }
 .centered-main-page-element {
